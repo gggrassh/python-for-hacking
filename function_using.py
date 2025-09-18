@@ -4,4 +4,4 @@ def attack(i, d):
 ip = input('please input ip: ')
 url = input('please input url: ')
 
-attack(ip,url)
+attack(ip, url)
